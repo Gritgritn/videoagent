@@ -192,7 +192,7 @@
 Запусти video-script-orchestrator со следующими параметрами:
 - date: 2026-05-06
 - format: both
-- output_dir: D:/lesson/video-scripts
+- output_dir: D:/lesson/video-scripts-storage
 
 Агент находится в: D:/lesson/.agents/video-script-orchestrator/agent.md
 ```
